@@ -6,3 +6,9 @@ def print_number(i):
     print n
 
 print_number(9)
+
+value =12345678
+k = 2
+x = (value%10)/10.0
+value = int(value / 10)
+print(value), x
