@@ -47,3 +47,6 @@ print symmetric([[1, 2, 3, 4],
 print symmetric([[1,2,3],
                  [2,3,1]])
 #>>> False
+a = "marca"
+b = a[0]
+print b
